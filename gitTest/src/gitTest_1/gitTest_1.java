@@ -6,6 +6,7 @@ public class gitTest_1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("d");
+		int na;
 	}
 
 }
